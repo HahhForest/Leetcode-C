@@ -85,3 +85,5 @@
 *.lastbuildstate
 *.recipe
 *.enc
+*.pdb
+*.log
