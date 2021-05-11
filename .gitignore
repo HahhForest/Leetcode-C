@@ -64,3 +64,10 @@
 * .db
 * .sln
 * .enc
+*.db-shm
+*.db-wal
+*.opendb
+*.vcxproj
+*.filters
+*.user
+*.db
