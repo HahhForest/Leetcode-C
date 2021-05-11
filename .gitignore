@@ -30,3 +30,37 @@
 *.exe
 *.out
 *.app
+
+
+* .db
+* .db
+* .db - wal
+* .opendb
+
+* .pdb
+* .idb
+* .obj
+* .filters
+* .vcxproj
+* .tlog
+
+* .db - shm
+* .ipch
+* .exe
+* .ilk
+* .pdb
+* .recipe
+* .vcxproj
+* .filters
+* .filters
+* .obj
+* .pdb
+
+* .log
+
+* .user
+* .db
+* .db
+* .db
+* .sln
+* .enc
