@@ -29,7 +29,7 @@ public:
 };
 
 int main() {
-	cout << "Hello world!" << endl;
+	cout << INT_MIN<<endl;
 
 	int i = 5, j = 2;
 	printf_s("%d %d", i << j, i >> j);
